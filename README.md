@@ -2,7 +2,9 @@
 ## Software Engineer || AI Engineer || Data Analyst || Data Scientist || Full Stack Developer || Cloud Security Engineer || Game Developer (2d for now)
 
 **Languages** | Python, Java, SQL, HTML, GDScript
+ **Tools** | Godot, IntelliJ IDEA, MySQL, GitHub Desktop 
 
+[LinkedIn](https://www.linkedin.com/in/hanaa-yesenia-h-599577312/)
 <!--
 **Hanaa879/Hanaa879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
