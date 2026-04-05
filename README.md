@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there Everyone 👋
+## Software Engineer || AI Engineer || Data Analyst || Data Scientist || Full Stack Developer || Cloud Security Engineer || Game Developer (2d for now)
+
+**Languages** | Python, Java, SQL, HTML, GDScript
 
 <!--
 **Hanaa879/Hanaa879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
